@@ -5,6 +5,11 @@
       "source": "obra/superpowers",
       "sourceType": "github",
       "computedHash": "576ee8b8c2e1b514b1eea2d152320e208e4187e44fa4ae923ad33142f25ee8d1"
+    },
+    "character-design-sheet": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "54f4e5e6280a3900aede5b560b67a5c45aae6739f3a7b817fa24a907afc9bd3c"
     }
   }
 }
